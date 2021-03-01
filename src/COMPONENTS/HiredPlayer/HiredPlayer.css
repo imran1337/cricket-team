@@ -1,0 +1,25 @@
+.flag{
+    width: 25px;
+}
+
+.selected_list{
+    position: relative;
+    min-height: 200px;
+    transition:all 1s linear;
+}
+
+.deleteBtn{
+    position: absolute;
+    opacity: 1 !important;
+    display: none !important;
+}
+
+.selected_list:hover{
+   opacity: .5;
+   background-color: rgba(64, 64, 68, 0.486);
+}
+
+.selected_list:hover .deleteBtn {
+    display: block !important;
+    z-index: 2;
+}

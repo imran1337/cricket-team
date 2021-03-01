@@ -1,0 +1,323 @@
+[
+    {
+        "id": 1,
+        "name": "Kane Williamson",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/440.png",
+        "country": "NZ",
+        "flag": "https://restcountries.eu/data/nzl.svg",
+        "details": [
+            {
+                "birth": "08 August 1990",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Off Spin",
+                "salary": 35000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Steve Smith",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/271.png",
+        "country": "AUS",
+        "flag": "https://restcountries.eu/data/aus.svg",
+        "details": [
+            {
+                "birth": "02 June 1989",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Leg Spin",
+                "salary": 45000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Marnus Labuschagne",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/4029.png",
+        "country": "AUS",
+        "flag": "https://restcountries.eu/data/aus.svg",
+        "details": [
+            {
+                "birth": "22 June 1994",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Leg Spin",
+                "salary": 75000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Babar Azam",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/2759.png",
+        "country": "PAK",
+        "flag":"https://restcountries.eu/data/pak.svg",
+        "details": [
+            {
+                "birth": "15 October 1994",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Off Spin",
+                "salary": 15000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Tom Latham",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1140.png",
+        "country": "NZ",
+        "flag": "https://restcountries.eu/data/nzl.svg",
+        "details": [
+            {
+                "birth": "02 April 1992",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Right-Arm Medium Seam",
+                "salary": 85000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Kane Williamson",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/440.png",
+        "country": "NZ",
+        "flag": "https://restcountries.eu/data/nzl.svg",
+        "details": [
+            {
+                "birth": "08 August 1990",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Off Spin",
+                "salary": 35000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Mushfiqur Rahim",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/491.png",
+        "country": "BAN",
+        "flag":"https://restcountries.eu/data/bgd.svg",
+        "details": [
+            {
+                "birth": "09 May 1987",
+                "role": "Wicket-Keeper",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "-",
+                "salary": 14000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Tamim Iqbal",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/287.png",
+        "country": "BAN",
+        "flag":"https://restcountries.eu/data/bgd.svg",
+        "details": [
+            {
+                "birth": "20 March 1989",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "-",
+                "salary": 35000
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Shakib Al Hasan",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/201.png",
+        "country": "BAN",
+        "flag":"https://restcountries.eu/data/bgd.svg",
+        "details": [
+            {
+                "birth": "24 March 1987",
+                "role": "All-Rounder",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Left-Arm Orthodox",
+                "salary": 65000
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Henry Nicholls",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/2890.png",
+        "country": "NZ",
+        "flag": "https://restcountries.eu/data/nzl.svg",
+        "details": [
+            {
+                "birth": "15 November 1991",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Right-Arm Off Spin",
+                "salary": 45000
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Shan Masood",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1305.png",
+        "country": "PAK",
+        "flag":"https://restcountries.eu/data/pak.svg",
+        "details": [
+            {
+                "birth": "14 October 1989",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Right-Arm Medium Seam",
+                "salary": 45000
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Liton Das",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1596.png",
+        "country": "BAN",
+        "flag":"https://restcountries.eu/data/bgd.svg",
+        "details": [
+            {
+                "birth": "13 October 1994",
+                "role": "Wicket-Keeper",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "-",
+                "salary": 25000
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Mahmudullah",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/492.png",
+        "country": "BAN",
+        "flag":"https://restcountries.eu/data/bgd.svg",
+        "details": [
+            {
+                "birth": "04 February 1986",
+                "role": "All-Rounder",
+                "battingStyle": "Right  Hand",
+                "bowlingStyle": "Right-Arm Off Spin",
+                "salary": 45000
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "David Warner",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/170.png",
+        "country": "AUS",
+        "flag": "https://restcountries.eu/data/aus.svg",
+        "details": [
+            {
+                "birth": "27 October 1986",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Right-Arm Leg Spin",
+                "salary": 55000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Rahmat Shah",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1250.png",
+        "country": "AF",
+        "flag":"https://restcountries.eu/data/afg.svg",
+        "details": [
+            {
+                "birth": "06 July 1993",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Leg Spin",
+                "salary": 65000
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Asghar Afghan",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/611.png",
+        "country": "AF",
+        "flag":"https://restcountries.eu/data/afg.svg",
+        "details": [
+            {
+                "birth": "26 December 1987",
+                "role": "Batter",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "Right-Arm Medium Seam",
+                "salary": 45000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Imam-ul-Haq",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1568.png",
+        "country": "PAK",
+        "flag":"https://restcountries.eu/data/pak.svg",
+        "details": [
+            {
+                "birth": "12 December 1995",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "-",
+                "salary": 25000
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Mohammad Rizwan",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1201.png",
+        "country": "PAK",
+        "flag": "https://restcountries.eu/data/pak.svg",
+        "details": [
+            {
+                "birth": "01 June 1992",
+                "role": "Wicket-Keeper",
+                "battingStyle": "Right Hand",
+                "bowlingStyle": "-",
+                "salary": 45000
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Dean Elgar",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/652.png",
+        "country": "SA",
+        "flag": "https://restcountries.eu/data/zaf.svg",
+        "details": [
+            {
+                "birth": "11 June 1987",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Left-Arm Orthodox",
+                "salary": 38000
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Soumya Sarkar",
+        "img": "https://resources.pulse.icc-cricket.com/players/210/1919.png",
+        "country": "BAN",
+        "flag":"https://restcountries.eu/data/bgd.svg",
+        "details": [
+            {
+                "birth": "25 February 1993",
+                "role": "Batter",
+                "battingStyle": "Left Hand",
+                "bowlingStyle": "Right-Arm Medium Seam",
+                "salary": 15000
+            }
+        ]
+    }
+    
+]

@@ -1,0 +1,40 @@
+.card_img{
+    /* height: 250px; */
+}
+ .player{
+    /* background: linear-gradient(90deg,#0674d6,#06579f); */
+    /* border: 3px solid red; */
+    background-color: #686de0;
+}
+
+.p_img{
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.p_img img {
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.player {
+    margin: auto;
+    padding: 10px;
+}
+
+.addBtn{
+    margin: 5px 0 20px 0;
+    width: 100px;
+}
+
+.country_img{
+    width: 25px;
+}
+
+.flag{
+    margin-left: 10px;
+}
+
+.infoStyle{
+    font-weight: 500;
+}
